@@ -4,3 +4,6 @@ package
 .slack/apps.dev.json
 *.Identifier
 deno.lock
+.qodo
+
+.automate
